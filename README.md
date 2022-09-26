@@ -5,7 +5,7 @@ My name is Sai Guntabonu, and I am currently a student at Georgia Institute of T
 Programming languages:
 Python, Java, Swift, MIT app inventor
 
-## Sai Guntabonu's Projects
+## Sai Guntabonu's Apps
 
 ### 2022: [Knight](https://github.com/EPHS-iOS/knight.git)
 
